@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\RiderProjects\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+    "C:\\Users\\arcto\\RiderProjects\\asp_3433\\WebApplication3\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\RiderProjects\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+    "C:\\Users\\arcto\\RiderProjects\\asp_3433\\WebApplication3\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\RiderProjects\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "C:\\Users\\arcto\\RiderProjects\\asp_3433\\WebApplication3\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\Asus\\RiderProjects\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\RiderProjects\\WebApplication3\\WebApplication3\\obj\\",
+        "projectPath": "C:\\Users\\arcto\\RiderProjects\\asp_3433\\WebApplication3\\WebApplication3.csproj",
+        "packagesPath": "C:\\Users\\arcto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcto\\RiderProjects\\asp_3433\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\arcto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -43,6 +42,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
